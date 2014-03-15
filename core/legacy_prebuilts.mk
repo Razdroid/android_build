@@ -123,4 +123,5 @@ GRANDFATHERED_ALL_PREBUILT := \
 	wl1271.bin \
 	zoneinfo.dat \
 	zoneinfo.idx \
-	zoneinfo.version
+	zoneinfo.version \
+	egl.cfg
